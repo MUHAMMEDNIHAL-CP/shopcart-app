@@ -1,5 +1,5 @@
 import { useParams } from "react-router-dom"
-import ProductPagePlaceholder from "./ProductPagePlaceholder.tsx";
+import ProductPagePlaceHolder from "./ProductPagePlaceHolder"
 import RelatedProducts from "./RelatedProducts"
 import { useEffect, useState } from "react"
 import { BASE_URL } from "../../api"
