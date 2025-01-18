@@ -1,0 +1,45 @@
+/* RegisterPage.css */
+
+.register-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 168vh;
+    background-color: #f0f0f0;
+  }
+  
+  .register-card {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+  }
+  
+  .register-title {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .register-subtitle {
+    text-align: center;
+    color: #777;
+    margin-bottom: 20px;
+  }
+  
+  .register-footer {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .register-footer a {
+    text-decoration: none;
+    color: #007bff;
+  }
+  
+  .register-footer a:hover {
+    text-decoration: underline;
+  }
+  
